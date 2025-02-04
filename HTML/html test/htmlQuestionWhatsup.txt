@@ -1,0 +1,106 @@
+
+
+                                                                                                                                                                Total Marks: 50            
+                                                                                                                                                                Duration: 2 Hrs
+Section A: Multiple Choice Questions   
+(1 mark each, 10 questions)
+
+
+1 . What does HTML stand for?
+
+a) Hyper Text Markup Language
+b) High Text Markup Language
+c) Hyperlink and Text Markup Language
+d) None of the above
+2 . Which of the following is the correct way to create a hyperlink in HTML?
+
+a) <a href="http://www.example.com">Example</a>
+b) <link href="http://www.example.com">Example</link>
+c) <hyperlink href="http://www.example.com">Example</hyperlink>
+d) <url href="http://www.example.com">Example</url>
+
+3 . What is the purpose of the <head> tag in an HTML document?
+
+a) To define the main content of the page
+b) To contain meta-information about the document
+c) To create a header for the page
+d) To display images
+
+4 . Which HTML tag is used to define an unordered list?
+
+a) <ol>
+b) <ul>
+c) <list>
+d) <item>
+
+5 . What is the purpose of the <title> tag in HTML?
+
+a) To define the title of the webpage that appears in the browser tab
+b) To create a heading on the webpage
+c) To add a title to an image
+d) To specify the title of a list
+
+6 . Which of the following tags is used to create a table in HTML?
+
+a) <table>
+b) <tab>
+c) <tbl>
+d) <data>
+
+7. Which tag is used to define a paragraph in HTML?
+
+a) <p>
+b) <para>
+c) <paragraph>
+d) <text>
+8 . Which HTML element is used to define the structure of a form?
+
+a) <form>
+b) <input>
+c) <fieldset>
+d) <submit>
+
+9 . What is the correct HTML element for playing audio files?
+
+a) <audio>
+b) <sound>
+c) <music>
+d) <media>
+10. Which tag is used to create a dropdown list in HTML?
+
+a) <select>
+b) <dropdown>
+c) <list>
+d) <option>
+
+Section B: Short Answer Questions
+(4 marks each, 5 questions)
+11 .  What is the difference between the <div> and <span> elements in HTML? Provide an example of when to use each.
+12 .  What is the role of the <meta> tag in an HTML document? Provide examples of how it is used to define character encoding, viewport settings, and author information.
+ 13 . Explain the difference between inline and block-level elements in HTML. Provide two examples of each.
+14. Describe how to create a hyperlink in HTML. What are the attributes used in the <a> tag, and what is their purpose?
+15 .  What is the purpose of the <head> section in an HTML document? List at least three elements you might find inside the <head> tag.
+Section C: Long Answer Questions
+(10 marks each, 2 questions)
+
+ 16 .Write HTML code to create a table with the following specifications:
+•	The table should have 4 rows and 3 columns.
+•	The first row should be the header with column titles: "Name", "Age", and "City".
+•	The table should have the following data in the next rows:
+o	Row 2: Alice, 23, New York
+o	Row 3: Bob, 30, London
+o	Row 4: Charlie, 25, Paris
+•	Add borders to the table, and set padding of 10px for each cell.
+•	The table should also have a caption at the top: "Personal Information".
+
+
+17 . Explain how to create a table with merged cells in both rows and columns using the rowspan and colspan attributes. Write HTML code to create a table with the following structure:
+•	The first row should have a cell that spans across 2 columns (use colspan).
+•	The second row should have a cell that spans across 2 rows (use rowspan).
+•	The table should have 3 rows and 3 columns.
+
+
+
+
+
+
